@@ -1,1 +1,2 @@
 I am new to Git
+This is new line
